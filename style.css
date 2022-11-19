@@ -1,0 +1,46 @@
+body
+{
+    font-family: 'Special Elite', cursive;
+
+}
+
+
+.heading_div2,.heading_div
+{
+    margin-bottom: 50px;
+    text-shadow: 5px 5px 5px rgb(36, 77, 7);
+}
+
+.result_para_tag
+{
+  margin-top: 9px;
+}
+
+
+.result_para_tag span{
+   float: center;
+  }
+
+.copy_right_footer 
+{
+    position: fixed;
+    color: #07121d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #40f1df;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(108, 13, 13);
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top: 100px;
+    animation-iteration-count: infinite;
+    float: center;
+}
